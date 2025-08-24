@@ -4,7 +4,7 @@ import mediapipe as mp
 
 # Chế độ xử lý nền
 BACKGROUND_MODES = {
-    "BLUR": 0,
+    "BLUR": 10,
     "REPLACE": 1,
     "GRAYSCALE": 2,
     "VIRTUAL_BG": 3
